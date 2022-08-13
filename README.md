@@ -21,7 +21,7 @@
 ---
 
 ```zsh
--> ~/IlyesCincoNueve git:(main) > ./competences.sh
+-> ~/Ilyes-El-Majouti git:(main) > ./competences.sh
 ```
 
 ## 🚀 **Langages**
