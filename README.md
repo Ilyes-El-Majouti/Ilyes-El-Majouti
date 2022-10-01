@@ -8,11 +8,6 @@
 📫 Contactez-moi à cette adresse mail [ilyes.elmajouti@gmail.com](mailto:ilyes.elmajouti@gmail.com)
 
 <div align="center">
-
-[<img src="https://img.shields.io/badge/ilyes.elmajouti-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ilyes.elmajouti/)
-[<img src="https://img.shields.io/badge/ielmajouti7-FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>](https://snapchat.com/add/ielmajouti7)
-[<img src="https://img.shields.io/badge/Ilyes%239630-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/ilyes.elmajouti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:ilyes.elmajouti@gmail.com)
   
 [<img src="https://img.shields.io/badge/Ilyes.elmajouti-010101?&style=for-the-badge&logo=Npm&logoColor=white"/>](https://www.npmjs.com/~ilyes.elmajouti)
 
